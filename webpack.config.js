@@ -9,7 +9,7 @@ function setupDevtool(params) {
     
     if (IS_PROD) {return false;}
     
-}
+} 
 
 module.exports = {
     resolve: {
